@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import './main.css';
+
 
 // Declare Vanta and THREE to satisfy TypeScript since they are loaded from a script tag
 declare const VANTA: any;
