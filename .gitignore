@@ -1,0 +1,18 @@
+# Ignoruj folder z zależnościami Node.js
+node_modules/
+
+# Ignoruj logi
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignoruj pliki środowiskowe
+.env
+
+# Ignoruj folder systemowy macOS
+.DS_Store
+
+# Ignoruj folder VSCode
+.vscode/
